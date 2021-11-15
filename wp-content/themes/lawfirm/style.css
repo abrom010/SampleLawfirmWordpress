@@ -1,0 +1,24 @@
+/*
+Theme Name: Lawfirm Sample
+Author: The Dev Drawer
+Description: Sample website created for a sample law firm
+Version: 1.0.0
+*/
+
+body {
+	margin: 0;
+}
+
+.hero-cta {
+	margin-top: 30px;
+}
+
+.hero-cta .elementor-icon-box-wrapper {
+	position: relative;
+	top: -40px;
+}
+
+.strong-view.wpmtst-modern .wpmtst-testimonial-content::before, .strong-view.wpmtst-modern .wpmtst-testimonial-content::after {
+	background: #445A81 !important;
+	color: #445A81 !important;
+}
